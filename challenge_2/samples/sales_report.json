@@ -1,11 +1,11 @@
 {
-    "firstName": "Joshie",
-    "lastName": "Wyattson",
-    "county": "San Mateo",
-    "city": "San Mateo",
-    "role": "Broker",
-    "sales": 1000000,
-    "children": [
+  "firstName": "Joshie",
+  "lastName": "Wyattson",
+  "county": "San Mateo",
+  "city": "San Mateo",
+  "role": "Broker",
+  "sales": 1000000,
+  "children": [
     {
       "firstName": "Beth Jr.",
       "lastName": "Johnson",
@@ -44,4 +44,4 @@
       "children": []
     }
   ]
-};
+}
